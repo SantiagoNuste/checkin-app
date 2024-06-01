@@ -16,7 +16,8 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.5",
     "react-router-dom": "^6.23.1",
-    "serve": "^14.2.3"
+    "serve": "^14.2.3",
+    "start":"serve dist -s -n -l -p $PORT"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
